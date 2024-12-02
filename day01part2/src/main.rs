@@ -1,8 +1,4 @@
 //! Advent of Code Day One Part Two
-//!
-//! See [README.md](../README.md) for the problem description
-//!
-//! Answer: 23126924
 
 use lib::{read_two_columns, Result};
 

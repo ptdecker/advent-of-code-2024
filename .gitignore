@@ -7,3 +7,7 @@ target/
 
 # RustRover
 .idea/
+
+# Advent of Code input files and individual solutions
+data/day??.txt
+data/answers.txt
