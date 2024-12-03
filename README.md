@@ -26,6 +26,6 @@ Common data types, helper functions, etc., are in a [common library](lib/src/lib
 * Day One: Historian Hysteria
     * [Part One](day01part1/README.md) ([source](day01part1/src/main.rs))
     * [Part Two](day01part1/README.md) ([source](day01part2/src/main.rs))
-  * Day Two: Red-Nosed Reports
+* Day Two: Red-Nosed Reports
     * [Part One](day02part1/README.md) ([source](day02part1/src/main.rs))
     * [Part Two](day02part2/README.md) ([source](day02part2/src/main.rs))
